@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @shouryan01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- http://shouryannikam.start.page
-
-<!---
-shouryan01/shouryan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Shouryan Nikam
+- 👀 I’m interested in Python, Javascript and Data Science.
+- 🌱 I'm a junior at the University of Michigan, double majoring in Computer Science and Data Science
+- 💞️ I’m looking to collaborate on useful personal tools (think productivity tools) with beautiful frontends.
+- 📫 http://shouryannikam.start.page - contact me! (email, LinkedIn, Twitter, Discord, Facebook, Telegram)
