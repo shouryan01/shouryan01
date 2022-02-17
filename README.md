@@ -9,4 +9,6 @@
 - 👀 I’m interested in Python, Javascript and Data Science.
 - 🌱 I'm a junior at the University of Michigan, double majoring in Computer Science and Data Science
 - 💞️ I’m looking to collaborate on useful personal tools (think productivity tools) with beautiful frontends.
-- 📫 http://shouryannikam.start.page - contact me! (email, LinkedIn, Twitter, Discord, Facebook, Telegram)
+<h1>
+📫 http://shouryannikam.start.page - contact me! (email, LinkedIn, Twitter, Discord, Facebook, Telegram)
+</h1>
