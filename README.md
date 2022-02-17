@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/JlkDao6XhRUxBADcQ8/giphy.gif?cid=ecf05e47a89b7eee24e095fa5f6e656579016dde252fcc45&rid=giphy.gif&ct=g">
+  <img src="https://drive.google.com/file/d/1Va8KG0zufwBG_kKJAukZ4OATouORtV3Z/view?usp=sharing">
 </p>
 
 
