@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/XF4fF4B0l4UQFHAKXz/giphy.gif">
 </p>
 
-[![Shouryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shouryan01&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Shouryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shouryan01&hide=stars&show_icons=true&theme=transparent )](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shouryan01)](https://github.com/anuraghazra/github-readme-stats)
 
 - <h3> 👋 Hi, I’m Shouryan Nikam</h3>
 - <h3>👀 I’m interested in Python, Javascript and Data Science.</h3>
