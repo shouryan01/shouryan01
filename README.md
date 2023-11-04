@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/XF4fF4B0l4UQFHAKXz/giphy.gif">
-</p>
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
