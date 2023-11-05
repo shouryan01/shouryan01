@@ -7,3 +7,5 @@
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=true&rank_icon=github&theme=city_lights&bg_color=00000000" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=shouryan01)
