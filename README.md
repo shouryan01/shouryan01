@@ -6,15 +6,21 @@
 
 <div align="center"> 
   <a> <img src="https://komarev.com/ghpvc/?username=shouryan01&style=for-the-badge" alt="shouryan01" /> </a>
+  <a href="https://www.shouryannikam.com" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
   <a href="mailto:snnikam@umich.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://linkedin.com/in/shouryannikam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+    <a href="https://www.youtube.com/@ShouryanNikam">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://www.twitter.com/shouryannikam/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/shouryan01/shouryan01/assets/32345320/6c29702b-ca96-4ca9-a222-9f8ef1e2a34a">
