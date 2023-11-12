@@ -33,10 +33,10 @@
 - asfd
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryan01&layout=compact&langs_count=6&card_width=320&theme=city_lights&bg_color=00000000&border_radius=25&hide=jupyter%20notebook" />
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryan01&layout=compact&langs_count=6&card_width=320&theme=city_lights&bg_color=00000000&border_radius=25&hide=jupyter%20notebook" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=true&rank_icon=github&theme=city_lights&bg_color=00000000&border_radius=25" />
+  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=true&rank_icon=github&theme=city_lights&bg_color=00000000&border_radius=25" />
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=1200&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
