@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Shouryan%20Nikam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer,%20Data%20Scientist&descAlignY=50&descAlign=61)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shouryan%20Nikam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer,%20Data%20Scientist&descAlignY=50&descAlign=61)
 
 <a href="">
   <img height=100 align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&random=false&width=435&lines=Hi+I'm+Shouryan+%F0%9F%91%8B;Welcome+to+my+GitHub+page!;Software+Engineer+%40+Tektronix;CS+%2B+DS+from+UMich%E3%80%BD%EF%B8%8F" />
@@ -25,7 +25,7 @@
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=shouryan01&theme=github-light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shouryan01&theme=github-light" />
+  <img width="850 src="https://github-readme-activity-graph.vercel.app/graph?username=shouryan01&theme=github-light" />
 </picture>
 
 <picture>
