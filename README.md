@@ -44,10 +44,10 @@
   
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryan01&layout=compact&langs_count=6&card_width=400&theme=city_lights&bg_color=00000000&border_radius=25&hide=jupyter%20notebook" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryan01&layout=compact&langs_count=6&card_width=390&theme=city_lights&bg_color=00000000&border_radius=25&hide=jupyter%20notebook" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=truecard_width=400&rank_icon=github&theme=city_lights&bg_color=00000000&border_radius=25" />
+  <img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=truecard_width=390&rank_icon=github&theme=city_lights&bg_color=00000000&border_radius=25" />
 </a>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
