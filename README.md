@@ -54,7 +54,7 @@
   <img height="210" align="left" src="https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=400&fire=EB5454&currStreakLabel=EB5454" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="230" align="right" src="https://leetcard.jacoblin.cool/snnikam01?theme=wtf,dark&font=Josefin%20Sans&ext=heatmap&radius=25" />
+  <img height="220" align="right" src="https://leetcard.jacoblin.cool/snnikam01?theme=wtf,dark&font=Josefin%20Sans&ext=heatmap&radius=25" />
 </a>
 
 
