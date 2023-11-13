@@ -51,10 +51,10 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="left" src="https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=400&fire=EB5454&currStreakLabel=EB5454" />
+  <img height="200" align="left" src="https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=500&fire=EB5454&currStreakLabel=EB5454" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180" align="right" src="https://leetcard.jacoblin.cool/snnikam01?theme=wtf,dark&font=Josefin%20Sans&ext=heatmap&radius=25" />
+  <img height="250" align="right" src="https://leetcard.jacoblin.cool/snnikam01?theme=wtf,dark&font=Josefin%20Sans&ext=heatmap&radius=25" />
 </a>
 
 
