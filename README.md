@@ -42,7 +42,7 @@
   
 - ⚡ Fun fact **Each 1/3 of my life I've lived in a different country**
   
-
+<h1></h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryan01&layout=compact&langs_count=6&card_width=355&theme=city_lights&bg_color=00000000&border_radius=25&hide=jupyter%20notebook" />
 </a>
