@@ -63,8 +63,8 @@
 
 
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
-<h3 align="center">Programming Languages</h3>
+<h1 align="center"><u><b>Knowledge Base</b></u></h1>
+<h2 align="center">Programming Languages</h2>
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
