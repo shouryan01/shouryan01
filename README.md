@@ -30,17 +30,17 @@
 
 
 
-- 🔭 I’m currently working on **MongoDB.app**
+- 🔭 I’m currently working on: **MongoDB.app**
   
-- asdf
+- 🤝 I'm looking to collaborate on: **On-device LLMs**
   
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning: **MLOps**
   
-- 💬 Ask me about **Python , NextJS**
+- 💬 Ask me about: **Python , NextJS**
   
-- 📫 How to reach me **snnikam@umich.edu**
+- 📫 How to reach me: **snnikam@umich.edu**
   
-- ⚡ Fun fact **Each 1/3 of my life I've lived in a different country**
+- ⚡ Fun fact: **Each 1/3rd of my life, I lived in a diff. country**
   
 <h1></h1>
 <a href="https://github.com/anuraghazra/github-readme-stats">
