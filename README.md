@@ -63,6 +63,84 @@
 
 
 
+<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="python"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+      alt="java"/>
+  </a>
+</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+<a href="https://spring.io/" target="_blank">
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" />
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " />
+    </a>
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="graphql" />
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  </a>
+    <a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="kubernetes"/>
+  </a>
+</p>
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+      alt="mongodb"/>
+  </a>
+  <a href="https://www.mysql.org" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql"/>
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="redis"/>
+  </a>
+</p>
+<h3 align="center">Cloud & Hosting:</h3>
+<p align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/>
+  </a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img  src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="google cloud"/>
+  </a>
+</p>
+<h3 align="center">DevOps, Version Control & CI/CD</h3>
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/>
+  </a>
+  <a href="https://github.com/bindian0509" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+  <a href="https://gitlab.com/bindian0509" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+      alt="git"/>
+  </a>
+    <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
+  </a>
+</p>
+
+
+
 <picture>
   <source
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=shouryan01&theme=github-dark"
