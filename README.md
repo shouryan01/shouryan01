@@ -17,11 +17,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://www.youtube.com/@ShouryanNikam">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/youtube/channel/views/UCZzGyySPInpfMDjQ1hAht0A?style=for-the-badge&logo=youtube&labelColor=%23FF0000&color=%23FF0000">
     </a>
 <a href="https://www.twitter.com/shouryannikam/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
+    <a href="https://github.com/shouryan01?tab=followers"> <img src="https://img.shields.io/github/followers/shouryan01?style=for-the-badge&logo=github&label=follow" /> </a>
 </div>
 
 <br />
@@ -31,13 +32,10 @@
 
 
 - 🔭 I’m currently working on **MongoDB.app**
-
+- 
 - 🌱 I’m currently learning **MLOps**
-
 - 💬 Ask me about **Python , NextJS**
-
 - 📫 How to reach me **snnikam@umich.edu**
-
 - ⚡ Fun fact **Each 1/3 of my life I've lived in a different country**
 - asfd
 
