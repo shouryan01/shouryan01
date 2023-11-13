@@ -44,14 +44,14 @@
   
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryan01&layout=compact&langs_count=6&card_width=320&theme=city_lights&bg_color=00000000&border_radius=25&hide=jupyter%20notebook" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shouryan01&layout=compact&langs_count=6&card_width=400&theme=city_lights&bg_color=00000000&border_radius=25&hide=jupyter%20notebook" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=true&rank_icon=github&theme=city_lights&bg_color=00000000&border_radius=25" />
+  <img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=truecard_width=400&rank_icon=github&theme=city_lights&bg_color=00000000&border_radius=25" />
 </a>
 <br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="205" align="left" src="https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=400&fire=EB5454&currStreakLabel=EB5454" />
+  <img height="210" align="left" src="https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=400&fire=EB5454&currStreakLabel=EB5454" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="240" align="right" src="https://leetcard.jacoblin.cool/snnikam01?theme=wtf,dark&font=Josefin%20Sans&ext=heatmap&radius=25" />
