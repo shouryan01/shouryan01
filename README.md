@@ -50,8 +50,9 @@
   <img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=true&rank_icon=github&theme=city_lights&bg_color=00000000&border_radius=25" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=1200&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=400&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/snnikam01?theme=light,dark&font=Josefin%20Sans&ext=heatmap&radius=25)
 
 <picture>
   <source
