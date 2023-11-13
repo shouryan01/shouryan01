@@ -49,7 +49,7 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=shouryan01&show_icons=true&rank_icon=github&theme=city_lights&bg_color=00000000&border_radius=25" />
 </a>
-
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="left" src="https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=400&fire=EB5454&currStreakLabel=EB5454" />
 </a>
