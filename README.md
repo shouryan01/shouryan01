@@ -96,21 +96,13 @@
 
 <h3 align="center">Backend</h3>
 <p align="center">
-<a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" />
-  </a>
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " />
-    </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-    <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="kubernetes"/>
-  </a>
+    <img  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+    <img  src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+    <img  src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img  src="" />
+    <img  src="" />
+    <img  src="" />
+    <img  src="" />
 </p>
 
 <h3 align="center">Database</h3>
