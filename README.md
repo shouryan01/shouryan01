@@ -30,7 +30,7 @@
 
 
 
-- 🔭 I’m currently working on: **MongoDB.app**
+- 🔭 I’m currently working on: **google-tasks-desktop & weekability**
   
 - 🤝 I'm looking to collaborate on: **On-device LLMs**
   
