@@ -52,7 +52,7 @@
   <img height="180" align="right" src="https://streak-stats.demolab.com?user=shouryan01&theme=transparent&border_radius=25&card_width=350&fire=EB5454&currStreakLabel=EB5454" />
 </a>
 
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <h1 align="center"><u><b>Knowledge Base</b></u></h1>
 
