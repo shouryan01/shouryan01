@@ -1,10 +1,5 @@
 <img width="1120" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shouryan%20Nikam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer,%20Data%20Scientist&descAlignY=50&descAlign=61" />
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Shouryan+%F0%9F%91%8B;Welcome+to+my+GitHub+page!;Software+Engineer+%40+Tektronix;CS+%2B+DS+from+UMich%E3%80%BD%EF%B8%8F&duration=2500&pause=500&width=1200" />
-</div>
-<h1></h1>
-
 <div align="center"> 
   <a href=""> <img src="https://komarev.com/ghpvc/?username=shouryan01&style=for-the-badge" alt="shouryan01" /> </a>
   <a href="https://www.shouryannikam.com" target="_blank">
@@ -30,7 +25,7 @@
 
 
 
-- 🔭 I’m currently working on: **google-tasks-desktop & weekability**
+- 🔭 I’m currently working on: **dhyāna & weekability**
   
 - 🤝 I'm looking to collaborate on: **On-device LLMs**
   
@@ -219,10 +214,3 @@
   />
   <img width="1500" src="https://github-readme-activity-graph.vercel.app/graph?username=shouryan01&theme=github-light" />
 </picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shouryan01/shouryan01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shouryan01/shouryan01/output/github-contribution-grid-snake.svg">
-  <img width="1500" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shouryan01/shouryan01/output/github-contribution-grid-snake.svg">
-</picture>
-
