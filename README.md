@@ -25,17 +25,17 @@
 
 
 
-- 🔭 I’m currently working on: **dhyāna & weekability**
+- 🔭 I’m currently working on: **abilityapps**
   
 - 🤝 I'm looking to collaborate on: **On-device LLMs**
   
-- 🌱 I’m currently learning: **MLOps**
+- 🌱 I’m currently learning: **Rust**
   
 - 💬 Ask me about: **Python, NextJS**
   
 - 📫 How to reach me: **snnikam@umich.edu**
   
-- ⚡ Fun fact: **Each 1/3rd of my life, I lived in a diff. country**
+- ⚡ Fun fact: **I have no fun facts, I'm boring af**
 
 <h1></h1>
 <br />
