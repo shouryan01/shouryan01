@@ -35,7 +35,7 @@
   
 - 📫 How to reach me: **shouryan.nikam1@gmail.com**
   
-- ⚡ Fun fact: **I enjoy photography! 📸**
+- ⚡ Fun fact: **[I enjoy photography! 📸](http://photos.shouryannikam.com)**
 
 <h1></h1>
 <!--
