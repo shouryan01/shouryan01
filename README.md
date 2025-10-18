@@ -1,6 +1,6 @@
 <img width="1120" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Shouryan%20Nikam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer,%20Data%20Scientist&descAlignY=50&descAlign=61" />
 
-<div align="center"> 
+<!-- <div align="center"> 
   <a href=""> <img src="https://komarev.com/ghpvc/?username=shouryan01&style=for-the-badge" alt="shouryan01" /> </a>
   <a href="https://www.shouryannikam.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
@@ -19,25 +19,26 @@
 </a>
 </div>
 
-<br />
+<br /> -->
 
 <img align="right" alt="Coding" width="400" src="https://github.com/shouryan01/shouryan01/assets/32345320/6c29702b-ca96-4ca9-a222-9f8ef1e2a34a">
 
 
 
-- 🔭 I’m currently working on: **photon**
+- 🔭 I’m currently working on: **weekability**
   
 - 🤝 I'm looking to collaborate on: **On-device LLMs**
   
 - 🌱 I’m currently learning: **Rust**
   
-- 💬 Ask me about: **Python, NextJS**
+- 💬 Ask me about: **Python, React**
   
-- 📫 How to reach me: **snnikam@umich.edu**
+- 📫 How to reach me: **shouryan.nikam1@gmail.com**
   
-- ⚡ Fun fact: **I have no fun facts, I'm boring af**
+- ⚡ Fun fact: **I enjoy photography! 📸**
 
 <h1></h1>
+<!--
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -213,4 +214,4 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img width="1500" src="https://github-readme-activity-graph.vercel.app/graph?username=shouryan01&theme=github-light" />
-</picture>
+</picture> -->
