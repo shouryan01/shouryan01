@@ -25,7 +25,7 @@
 
 
 
-- 🔭 I’m currently working on: **weekability**
+- 🔭 I’m currently working on: **dhyana**
   
 - 🤝 I'm looking to collaborate on: **On-device LLMs**
   
