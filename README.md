@@ -25,9 +25,9 @@
 
 
 
-- 🔭 I’m currently working on: **dhyana**
+- 🔭 I’m currently working on: **dhyana** & **gains**
   
-- 🤝 I'm looking to collaborate on: **On-device LLMs**
+- 🤝 I'm looking to collaborate on: **Nikon-Recipes*
   
 - 🌱 I’m currently learning: **Rust**
   
